@@ -37,12 +37,8 @@ as you please.
 Requirements
 ------------
 
-* Python >= 2.6
-* gtk+
-* pygtk
-* pygobject
-* pycairo
-* PyXDG
+* Python >= 3.x
+* Otros
 
 The minimum required versions are unknown, but any reasonably recent packages
 should work.
