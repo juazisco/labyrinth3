@@ -1,0 +1,317 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# dnikolos <dnikolos@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Labyrinth\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-04 11:45-0700\n"
+"PO-Revision-Date: 2014-12-19 18:53+0000\n"
+"Last-Translator: dnikolos <dnikolos@gmail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/takluyver/labyrinth/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../labyrinth_lib/ImageThought.py:68
+msgid "Choose image to insert"
+msgstr "Επιλογή εικόνας για εισαγωγή"
+
+#: ../labyrinth_lib/ImageThought.py:322
+msgid "Error loading file"
+msgstr "Το αρχείο δεν μπορεί να φορτωθεί"
+
+#: ../labyrinth_lib/ImageThought.py:323
+#, python-format
+msgid "%s could not be found.  Associated thought will be empty."
+msgstr "%s δεν  μπορεί να βρεθεί."
+
+#: ../labyrinth_lib/ImageThought.py:338
+msgid "Change Image"
+msgstr "Αλλαγή εικόνας"
+
+#: ../labyrinth_lib/Browser.py:194
+#, python-format
+msgid "Unable to display help: %s"
+msgstr "Δεν μπορεί να εμφανιστεί η βοήθεια: %s"
+
+#: ../labyrinth_lib/Browser.py:226
+msgid "Translation by Don Scorgie"
+msgstr "Μετάφραση στο Transifex"
+
+#: ../labyrinth_lib/Browser.py:248
+msgid "The map cannot be deleted right now. Is it open?"
+msgstr "Αυτός ο χάρτης δεν μπορεί να διαγραφεί. Είναι ανοικτός;"
+
+#: ../labyrinth_lib/Browser.py:250
+msgid "The map has no associated filename."
+msgstr "Ο χάρτης δεν έχει συσχετισμένο όνομα αρχείου"
+
+#: ../labyrinth_lib/Browser.py:253
+msgid "Cannot delete this map"
+msgstr "Ο χάρτης δεν μπορεί να διαγραφεί"
+
+#: ../labyrinth_lib/Browser.py:260
+msgid "Do you really want to delete this Map?"
+msgstr "Θέλετε να διαγραφεί αυτός ο χάρτης;"
+
+#: ../labyrinth_lib/Browser.py:285
+msgid "Open File"
+msgstr "Άνοιγμα αρχείου"
+
+#: ../labyrinth_lib/Browser.py:289
+msgid "MAPZ Compressed Map (*.mapz)"
+msgstr "MAPZ Συμπιεσμένος χάρτης (*.mapz)"
+
+#: ../labyrinth_lib/Browser.py:320
+msgid "Map Name"
+msgstr "Όνομα χάρτη"
+
+#: ../labyrinth_lib/Browser.py:327
+msgid "Last Modified"
+msgstr "Τελευταία τροποποίηση"
+
+#: ../labyrinth_lib/Links.py:265
+msgid "Choose Color"
+msgstr "Επιλογή χρώματος"
+
+#: ../labyrinth_lib/Links.py:278
+msgid "Set Color"
+msgstr "Ορισμός χρώματος"
+
+#: ../labyrinth_lib/MainWindow.py:162 ../labyrinth_lib/MainWindow.py:478
+msgid "Untitled Map"
+msgstr "Ανώνυμος Χάρτης"
+
+#: ../labyrinth_lib/MainWindow.py:208
+msgid "File"
+msgstr "Αρχείο"
+
+#: ../labyrinth_lib/MainWindow.py:209
+msgid "Export as Image"
+msgstr "Εξαγωγή σαν εικόνα"
+
+#: ../labyrinth_lib/MainWindow.py:210
+msgid "Export your map as an image"
+msgstr "Εξαγωγή του χάρτη σαν εικόνα"
+
+#: ../labyrinth_lib/MainWindow.py:211
+msgid "Export Map..."
+msgstr "Εξαγωγή Χάρτη"
+
+#: ../labyrinth_lib/MainWindow.py:212
+msgid "Export your map as XML"
+msgstr "Εξαγωγή του χάρτη σαν XML"
+
+#: ../labyrinth_lib/MainWindow.py:214
+msgid "Close the current window"
+msgstr "Κλείσιμο παραθύρου"
+
+#: ../labyrinth_lib/MainWindow.py:215
+msgid "_Edit"
+msgstr "_Επεξεργασία"
+
+#: ../labyrinth_lib/MainWindow.py:216
+msgid "_View"
+msgstr "_Προβολή"
+
+#: ../labyrinth_lib/MainWindow.py:217
+msgid "_Toolbar"
+msgstr "_Εργαλειοθήκη"
+
+#: ../labyrinth_lib/MainWindow.py:226
+msgid "Link Thoughts"
+msgstr "Σύνδεση σκέψεων"
+
+#: ../labyrinth_lib/MainWindow.py:227
+msgid "Link the selected thoughts"
+msgstr "Σύνδεση των επιλεγμένων σκέψεων"
+
+#: ../labyrinth_lib/MainWindow.py:228
+msgid "_Mode"
+msgstr "_Τρόπος Λειτουργίας"
+
+#: ../labyrinth_lib/MainWindow.py:236
+msgid "_Edit Mode"
+msgstr "_Λειτουργία Επεξεργασίας"
+
+#: ../labyrinth_lib/MainWindow.py:237
+msgid "Turn on edit mode"
+msgstr "Έναρξη λειτουργίας επεξεργασίας"
+
+#: ../labyrinth_lib/MainWindow.py:238
+msgid "_Add Image"
+msgstr "_Εισαγωγή Εικόνας"
+
+#: ../labyrinth_lib/MainWindow.py:239
+msgid "Add an image to selected thought"
+msgstr "Εισαγωγή εικόνας  στην επιλεγμένη σκέψη"
+
+#: ../labyrinth_lib/MainWindow.py:240
+msgid "_Drawing Mode"
+msgstr "_Τρόπος Λειτουργίας Σχεδίασης"
+
+#: ../labyrinth_lib/MainWindow.py:241
+msgid "Make a pretty drawing"
+msgstr "Κάνε ένα ωραίο σχέδιο"
+
+#: ../labyrinth_lib/MainWindow.py:243
+msgid "Use _Curves"
+msgstr "Χρήση _Καμπυλών"
+
+#: ../labyrinth_lib/MainWindow.py:244
+msgid "Use curves as links"
+msgstr "Χρήση καμπυλών ως συνδέσμων"
+
+#: ../labyrinth_lib/MainWindow.py:245
+msgid "Use _Lines"
+msgstr "Χρήση _Γραμμών"
+
+#: ../labyrinth_lib/MainWindow.py:246
+msgid "Use straight lines as links"
+msgstr "Χρήση ευθείων γραμμών σαν συνδέσμων"
+
+#: ../labyrinth_lib/MainWindow.py:248
+msgid "_Extended Information"
+msgstr "_Εκτατεμένες Πληροφορίες"
+
+#: ../labyrinth_lib/MainWindow.py:249
+msgid "Show extended information for thoughts"
+msgstr "Εμφάνιση εκτεταμένων πληροφοριών για τις σκέψεις"
+
+#: ../labyrinth_lib/MainWindow.py:250
+msgid "_Main"
+msgstr "_Κύριο"
+
+#: ../labyrinth_lib/MainWindow.py:251
+msgid "Show main toolbar"
+msgstr "Εμφάνιση κύριας εργαλειοθήκης"
+
+#: ../labyrinth_lib/MainWindow.py:252
+msgid "_Format"
+msgstr "_Μορφοποίηση"
+
+#: ../labyrinth_lib/MainWindow.py:253
+msgid "Show format toolbar"
+msgstr "Εμφάνιση της εργαλειοθήκης μορφοποίησης"
+
+#: ../labyrinth_lib/MainWindow.py:533
+msgid "Save File As"
+msgstr "Αποθήκευση αρχείου ως"
+
+#: ../labyrinth_lib/MainWindow.py:627
+msgid "All Files"
+msgstr "Όλα τα αρχεία"
+
+#: ../labyrinth_lib/MainWindow.py:628
+msgid "PNG Image (*.png)"
+msgstr "Εικόνα PNG (*.png)"
+
+#: ../labyrinth_lib/MainWindow.py:629
+msgid "JPEG Image (*.jpg, *.jpeg)"
+msgstr "Εικόνα JPEG (*.jpg,*.jpeg)"
+
+#: ../labyrinth_lib/MainWindow.py:630
+msgid "SVG Vector Image (*.svg)"
+msgstr "Διανυσματική εικόνα SVG (*.svg)"
+
+#: ../labyrinth_lib/MainWindow.py:631
+msgid "PDF Portable Document (*.pdf)"
+msgstr "Έγγραφο PDF (*.pdf)"
+
+#: ../labyrinth_lib/MainWindow.py:669
+msgid "Unknown file format"
+msgstr "Άγνωστος τύπος αρχείου"
+
+#: ../labyrinth_lib/MainWindow.py:670
+#, python-format
+msgid ""
+"The file type '%s' is unsupported.  Please use the suffix '.png', '.jpg' or "
+"'.svg'."
+msgstr "Ο τύπος αρχείου '%s' δεν υποστηρίζεται. Χρησιμοποιήστε '.png','.jpg' ή '.svg'."
+
+#: ../labyrinth_lib/ResourceThought.py:128
+msgid "Edit Text"
+msgstr "Επεξεργασία κειμένου"
+
+#: ../labyrinth_lib/ResourceThought.py:133
+msgid "Edit URI"
+msgstr "Επεξεργασία URI"
+
+#: ../labyrinth_lib/DrawingThought.py:65
+#, python-format
+msgid "Drawing #%d"
+msgstr "Σχεδίαση #%d"
+
+#: ../data/labyrinth.glade:7
+msgid "Export Map as Image"
+msgstr "Εξαγωγή Χάρτη σαν Εικόνα"
+
+#: ../data/labyrinth.glade:87
+msgid "Complete Map"
+msgstr "Πλήρης Χάρτης"
+
+#: ../data/labyrinth.glade:101
+msgid "Visible Area"
+msgstr "Ορατή Περιοχή"
+
+#: ../data/labyrinth.glade:157
+msgid "Width"
+msgstr "Πλάτος"
+
+#: ../data/labyrinth.glade:172
+msgid "Height"
+msgstr "Ύψος"
+
+#: ../data/labyrinth.glade:226
+msgid "<b>Export Map</b>"
+msgstr "<b>Εξαγωγή Χάρτη</b>"
+
+#: ../data/labyrinth.glade:245
+msgid "Labyrinth Maps"
+msgstr "Χάρτες Labyrinth"
+
+#: ../data/labyrinth.glade:259
+msgid "_File"
+msgstr "_Αρχείο"
+
+#: ../data/labyrinth.glade:299
+msgid "Import..."
+msgstr "Εισαγωγή..."
+
+#: ../data/labyrinth.glade:329
+msgid "_Help"
+msgstr "_Βοήθεια"
+
+#: ../data/labyrinth.glade:765
+msgid "URL"
+msgstr "URL"
+
+#: ../data/labyrinth.glade:806
+msgid "Align Left"
+msgstr "Στοίχιση αριστερά"
+
+#: ../data/labyrinth.glade:825
+msgid "Align Right"
+msgstr "Στοίχιση δεξιά"
+
+#: ../data/labyrinth.glade:844
+msgid "Align Vertical Center"
+msgstr "Κάθετη στοίχιση στο κέντρο"
+
+#: ../data/labyrinth.glade:863
+msgid "Align Top"
+msgstr "Στοίχιση στην κορυφή"
+
+#: ../data/labyrinth.glade:882
+msgid "Align Bottom"
+msgstr "Στοίχιση κάτω"
+
+#: ../data/labyrinth.glade:901
+msgid "Align Horizontal Center"
+msgstr "Οριζόντια στοίχιση στο κέντρο"

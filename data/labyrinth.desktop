@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Labyrinth Mind-mapping
+GenericName=Mind-mapping
+Comment=Map your mind
+Exec=labyrinth
+Icon=labyrinth
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Application;Office;
